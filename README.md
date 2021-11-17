@@ -13,9 +13,6 @@ Saves and opens HTML format documents.
 ![Wordprocessor](screenshot-wordprocessor.jpg)
 
 > If you think this app is neat and want to learn more about
-PyQt in general, take a look at my [free PyQt tutorials](https://www.learnpyqt.com)
+PyQt in general, take a look at my [free  tutorials](https://www.youtube.com/channel/UCyoqxMGXPxuvh534hhT_MTw)
 which cover everything you need to know to start building your own applications with PyQt.
 
-## Other licenses
-
-Icons used in the application are by [Yusuke Kamiyaman](http://p.yusukekamiyamane.com/).
